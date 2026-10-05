@@ -4,12 +4,12 @@
      and swap the <img> below for this block:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/kribu-logo-dark.webp" />
-  <img src="assets/kribu-logo.webp" alt="Kribu" width="220" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kribuai/.github/main/profile/assets/kribu-logo-dark.webp" />
+  <img src="https://raw.githubusercontent.com/kribuai/.github/main/profile/assets/kribu-logo.webp" alt="Kribu" width="220" />
 </picture>
 -->
 
-<img src="profile/assets/kribu-logo.webp" alt="Kribu" width="220" />
+<img src="https://raw.githubusercontent.com/kribuai/.github/main/profile/assets/kribu-logo.webp" alt="Kribu" width="220" />
 
 <br />
 <br />
